@@ -1,0 +1,32 @@
+[2026-03-12 20:59:51] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado
+[2026-03-12 20:59:51] [ ERROR] [PacienteDAOH2:33] Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+[2026-03-12 21:06:04] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:06:04] [ ERROR] [PacienteDAOH2:35] Cannot invoke "java.time.LocalDate.getYear()" because "date" is null
+[2026-03-12 21:08:33] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:08:33] [ ERROR] [PacienteDAOH2:35] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO PACIENTES VALUES(?,?,?,?,?) [21002-240]
+[2026-03-12 21:14:23] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:14:23] [ ERROR] [PacienteDAOH2:35] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO PACIENTES VALUES(?,?,?,?,?) [21002-240]
+[2026-03-12 21:14:44] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:14:44] [ ERROR] [PacienteDAOH2:35] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO PACIENTES VALUES(?,?,?,?,?) [21002-240]
+[2026-03-12 21:25:45] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:25:45] [ ERROR] [PacienteDAOH2:35] Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.clinica.odontologica.Entity.Domicilio.getId()" is null
+[2026-03-12 21:37:06] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:37:06] [ ERROR] [PacienteDAOH2:36] Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.clinica.odontologica.Entity.Domicilio.getId()" is null
+[2026-03-12 21:38:32] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:38:32] [ ERROR] [PacienteDAOH2:36] Parametro "#6" no está fijado
+Parameter "#6" is not set; SQL statement:
+INSERT INTO PACIENTES VALUES(?,?,?,?,?,?) [90012-240]
+[2026-03-12 21:39:17] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:39:17] [ ERROR] [PacienteDAOH2:36] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO PACIENTES VALUES(?,?,?,?,?) [21002-240]
+[2026-03-12 21:52:48] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:52:48] [ INFO ] [PacienteDAOH2:32] paciente con id asignado
+[2026-03-12 21:52:57] [ INFO ] [PacienteDAOH2:15] iniciando las operaciones de guardado: Jorgito
+[2026-03-12 21:52:57] [ INFO ] [PacienteDAOH2:32] paciente con id asignado
